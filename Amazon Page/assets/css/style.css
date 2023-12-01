@@ -1,0 +1,134 @@
+/* Your styles here */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e9edee;
+}
+main {
+  margin: 15px;
+}
+header {
+  background-color: #222f3f;
+  text-align: left;
+  width: 100%;
+}
+header img {
+  height: 50px;
+  padding-left: 25px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+.menu {
+  display: inline;
+  color: white;
+  margin-left: 0.7em;
+  margin-right: 0.7em;
+  font-size: 0.7em;
+}
+#menu {
+  margin-left: 2em;
+}
+
+nav {
+  background-color: #364759;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+nav a {
+  text-decoration: none;
+}
+#titleorange {
+  background-color: #f56600;
+  color: white;
+  text-align: center;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  font-size: 0.7em;
+  margin-top: 1.7em;
+}
+section {
+  background-image: url(../images/bg-image.png);
+  margin-top: 1em;
+  margin-bottom: 3em;
+  padding-top: 1em;
+  padding-bottom: 0, 8em;
+  height: 100px;
+}
+section h2 {
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  padding-top: 1em;
+  padding-bottom: 0.9em;
+  font-size: 20px;
+}
+section h5 {
+  text-align: center;
+  color: white;
+  font-size: 12px;
+}
+
+#description1 {
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 1em;
+}
+#description1 p {
+  margin-left: 17px;
+}
+#description1 a {
+  text-decoration: none;
+  color: #135e6b;
+  padding-left: 1em;
+  font-weight: bold;
+  font-size: 12px;
+}
+#description1,
+#image1 {
+  background-color: white;
+  padding: 10px 5px 5px 5px;
+}
+#image1 img {
+  width: 22%;
+  height: 45vh;
+  border-radius: 15px;
+  margin: 5px 17px 5px 17px;
+  box-shadow: 0.5vh 0.5vh 0.5vh rgba(0, 0, 0, 0.5);
+}
+.image2-3 {
+  margin-top: 2em;
+}
+.image2-3 img {
+  width: 100%;
+}
+.description2-3 {
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 7px;
+}
+.description2-3 a {
+  padding-left: 1em;
+  text-decoration: none;
+  color: #135e6b;
+  font-weight: bold;
+  font-size: 12px;
+}
+#back {
+  text-align: center;
+  background-color: #364759;
+  padding-top: 0.8em;
+  padding-bottom: 0.8em;
+}
+#back a {
+  color: white;
+  font-size: 0.7em;
+}
+#logofooter {
+  background-color: #222f3f;
+  text-align: center;
+}
+#logofooter img {
+  height: 50px;
+  padding-top: 2em;
+  padding-bottom: 3em;
+}
